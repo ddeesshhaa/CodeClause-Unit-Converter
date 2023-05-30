@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.converter {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.converter label {
+  margin-right: 10px;
+}
+
+.converter input[type="number"] {
+  width: 100px;
+}
+
+.result {
+  font-weight: bold;
+}
